@@ -1,0 +1,36 @@
+_repo: Armour-in-EnglandFrom-the-Earliest-Times-to-the-Reign-of-James-the-First_44538
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Farquharson, V. A. (Victor Alexander)
+    alias: Farquharson, Victor Alexander
+    birthdate: 1853
+    deathdate: 1926
+    gutenberg_agent_id: '42804'
+    url: http://www.gutenberg.org/2009/agents/42804
+covers:
+- cover_type: archival
+  image_path: 44538-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gardner, John Starkie
+    alias: Gardner, J. Starkie (John Starkie)
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '42803'
+    url: http://www.gutenberg.org/2009/agents/42803
+description: ''
+gutenberg_issued: '2013-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44538'
+  lccn: '10012619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Armor -- England'
+title: Armour in England, from the Earliest Times to the Reign of James the First
+url: http://www.gutenberg.org/ebooks/44538
