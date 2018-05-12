@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '42803'
     url: http://www.gutenberg.org/2009/agents/42803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44538#Armour-in-EnglandFrom-the-Earliest-Times-to-the-Reign-of-James-the-First
 gutenberg_issued: '2013-12-29'
 gutenberg_type: Text
 identifiers:
